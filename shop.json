@@ -1,0 +1,26 @@
+{
+    "coin_multiply": {
+        "diamond pickaxe": 0,
+        "gold pickaxe": 1.25,
+        "iron pickaxe": 1.35,
+        "magnet": 5.0,
+        "stone pickaxe": 1.10,
+        "wooden pickaxe": 1.0
+    },
+    "items": {
+        "diamond pickaxe": 200000,
+        "gold pickaxe": 10000,
+        "iron pickaxe": 15000,
+        "magnet": 1000000,
+        "stone pickaxe": 3000,
+        "wooden pickaxe": 2000
+    },
+    "speed_multiply": {
+        "diamond pickaxe": 5,
+        "gold pickaxe": 1.15,
+        "iron pickaxe": 1.25,
+        "magnet": 5.0,
+        "stone pickaxe": 1.15,
+        "wooden pickaxe": 1.10
+    }
+}
