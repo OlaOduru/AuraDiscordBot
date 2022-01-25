@@ -27,7 +27,7 @@ def save_json(o, fp):
       json.dump(o, f, indent=4, sort_keys=True)
     return "Saved sucessfully."
   except Exception as e:
-    return f"Error saving, {e}."
+    return print("GG")
 
 db = load_json("info.json")
 
