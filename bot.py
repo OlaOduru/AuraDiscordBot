@@ -135,4 +135,4 @@ async def reload_error(ctx, error):
             embed.set_footer(text= f"{ctx.author}", icon_url=ctx.author.avatar_url)
             await ctx.send(embed=embed)
 
-client.run("ODg2NDI2OTUzMjAzMjE2NDE0.YT1bbg.oGOaK8NMXQ54h0Zxfwa1UgMFOvM")
+client.run("")
